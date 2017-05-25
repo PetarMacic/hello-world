@@ -7,3 +7,5 @@ include 'vars.php';
 echo "A $color $fruit"; // A green apple
 
 ?>
+
+portable radi??????????
