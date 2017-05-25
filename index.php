@@ -7,10 +7,3 @@ include 'vars.php';
 echo "A $color $fruit"; // A green apple
 
 ?>
-<<<<<<< HEAD
-
-portable radi??????????
-=====
-          radis mamu ti jebem 
-           nem ti ga majke
->>>>>>> d123ce2a1626f77b056ebbed163d1605af199c39
